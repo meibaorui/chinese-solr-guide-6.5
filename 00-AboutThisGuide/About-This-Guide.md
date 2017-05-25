@@ -21,5 +21,5 @@ Solr运行的默认接口是8983.一般来说，本指南中URLs和截图展示�
 一般，URL的样例使用‘Localhost’。如果你是从本地远程访问服务器的Solr，可以使用域名或IP替换‘localhost’。
 
 ## 路径
-存储在Solr安装路径下的collentions和它们的配置文件与数据目录，使用的是对于solr.home的相对路径。在本教程中的各种事例中，solr.home是一个为您自动创建在example/路径下的子文件夹。
+存储在Solr安装路径下的collentions和它们的配置文件与数据目录，使用的是对于solr.home的相对路径。在本教程中的各种事例中，solr.home是一个为你自动创建在example/路径下的子文件夹。
 
