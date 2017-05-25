@@ -1,4 +1,4 @@
-# 开始
+# 准备开始
 Solr可以轻松的使程序员开发出复杂的，高性能的，具有分面（facet，排序展示检索结果中某字段的各关键词的数量）等高级特性的搜索引擎。Solr建立在另一个开源的搜索技术Lucene上。Lucene是一个提供索引与检索技术的，具有拼写检查，高亮和高级的分析/分词功能的Java类库。Solr与Lucene都是由于Apache软件基金会（[www.apache.org](http://www.apache.org)）管理的。
 
 Lucene目前是排名第15的开源项目，在Apache项目中排名第5。被超过4000家公司所使用。Lucene/Solr的下载量三年来上升了近十倍，现在拥有每天6000次的下载量。Solr检索服务提供了一种基于Lucene检索类库的随时可用的检索平台。Solr是Lucene子项目中成长速度最快的一个。Apache的Lucene/Solr提供了一种极具吸引力的替代收费检索系统的方案。
