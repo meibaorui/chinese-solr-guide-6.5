@@ -1,5 +1,5 @@
-# 阿帕奇Solr参考指南
-本参考指南描述了搜索开源解决方案Solr。你可以通过网站 [http://lucene.apache.org/solr/](http://lucene.apache.org/solr/) 下载阿帕奇Solr。  
+# Apache Solr参考指南
+本参考指南描述了搜索开源解决方案Solr。你可以通过网站 [http://lucene.apache.org/solr/](http://lucene.apache.org/solr/) 下载Apache Solr。  
 本指南包含以下几个部分：  
 **准备开始**：本小节将指导你安装及启动Solr。  
 
