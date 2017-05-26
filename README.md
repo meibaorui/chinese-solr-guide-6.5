@@ -1,7 +1,7 @@
 # Apache Solr参考指南
 本参考指南描述了搜索开源解决方案Solr。你可以通过网站 [http://lucene.apache.org/solr/](http://lucene.apache.org/solr/) 下载Apache Solr。  
 本指南包含以下几个部分：  
-**[准备开始](../01-GettingStarted/GettingStarted.md)**：本小节将指导你安装及启动Solr。  
+**[准备开始](../master/01-GettingStarted/GettingStarted.md)**：本小节将指导你安装及启动Solr。  
 
 **使用Solr管理用户界面**：本部分将介绍Solr基于web的用户界面。通过你的浏览器你可以查看配置稳健，提交检索，查看日志和java环境配置，监控和控制分布式配置。  
 
