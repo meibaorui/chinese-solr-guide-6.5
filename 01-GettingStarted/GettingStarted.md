@@ -5,9 +5,9 @@ Lucene目前是排名第15的开源项目，在Apache项目中排名第5。被�
 
 本章节会帮助你快速的开始和启动Solr，介绍Solr的基本框架和概念。它包含以下这些主题：
 
-**Solr安装**：Solr安装过程的一次演练。
+**[Solr安装](../master/01-GettingStarted/01-0-InstallingSolr/InstallingSolr.md)**：Solr安装过程的一次演练。
 
-**启动Solr**：一个Solr启动的说明。包含开启服务，添加文档和运行检索。
+**[启动Solr](../master/01-GettingStarted/01-1-RunningSolr/RunningSolr.md)**：一个Solr启动的说明。包含开启服务，添加文档和运行检索。
 
 **快速概览**：关于Solr如何工作的高级概览。
 
