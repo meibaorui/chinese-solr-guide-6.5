@@ -53,7 +53,7 @@ $ bin/solr -e techproducts
 ```
 你可以使用的示例有：techproducts，dih，schemaless和cloud。关于这些示例的更多细节，你可以查看[Running with Example Configurations](https://cwiki.apache.org/confluence/display/solr/Solr+Control+Script+Reference#SolrControlScriptReference-RunningwithExampleConfigurations)。
 
->![](img/info-img.png)**启动SolrCloud**：运行示例cloud要是用[SolrCloud]()模式。关于开始使用SolrCloud的云模式的更多信息请参考[开始使用SolrCloud]()章节。
+>![](../img/info-img.png)**启动SolrCloud**：运行示例cloud要是用[SolrCloud]()模式。关于开始使用SolrCloud的云模式的更多信息请参考[开始使用SolrCloud]()章节。
 
 #### 查看Solr已运行
 如果你不确定Solr是否已运行，你可以使用status命令：
@@ -65,7 +65,7 @@ $ bin/solr status
 就是这样！Solr运行起来了。如果你需要进一步确认，你可以用浏览器查看管理界面。
 >http://localhost:8983/solr/
 
-![Solr管理界面](img/01-1-0.png)
+![Solr管理界面](../img/01-1-0.png)
 
 如果Solr没有启动，你的浏览器会告诉你他不能链接到服务。检查你的端口号，然后再试一遍。
 
@@ -130,7 +130,7 @@ Time spent: 0:00:00.153
 
 如果你现在不能运行Solr，下边的截图展示了这个检索在火狐浏览器中的返回结果。在响应的顶层包含一个名为responseHeader的lst标签和一个名为response的result标签。在result标签中，你可以看到三个doc标签，代表着检索结果。
 
-![检索的XML响应](img/01-1-1.png)
+![检索的XML响应](../img/01-1-1.png)
 
 一旦你掌握了检索（query）的基本思想，你就能狗自己去太多检索语句的更多功能。下边的例子和之前的检索语句类似，但是它的结果仅返回文档的id，name和price。如果你不指定你想要发挥的字段，将返回所有的字段。
 >http://localhost:8983/solr/gettingstarted/select?q=video&fl=id,name,price
