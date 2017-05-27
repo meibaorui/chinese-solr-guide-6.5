@@ -19,4 +19,4 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.60-b23, mixed mode)
 $ cd ~/
 $ tar zxf solr-x.y.z.tgz
 ```
-解压之后，你可以根据[运行SOlr](01-GettingStarted/01-1-RunningSolr/RunningSolr.md)章节的说明来运行Solr。
+解压之后，你可以根据[运行SOlr](../01-1-RunningSolr/RunningSolr.md)章节的说明来运行Solr。
