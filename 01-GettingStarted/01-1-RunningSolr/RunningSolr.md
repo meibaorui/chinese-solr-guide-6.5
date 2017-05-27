@@ -53,7 +53,7 @@ $ bin/solr -e techproducts
 ```
 你可以使用的示例有：techproducts，dih，schemaless和cloud。关于这些示例的更多细节，你可以查看[Running with Example Configurations](https://cwiki.apache.org/confluence/display/solr/Solr+Control+Script+Reference#SolrControlScriptReference-RunningwithExampleConfigurations)。
 
->![](../img/info-img.png)**启动SolrCloud**：运行示例cloud要是用[SolrCloud]()模式。关于开始使用SolrCloud的云模式的更多信息请参考[开始使用SolrCloud]()章节。
+>![](img/info-img.png)**启动SolrCloud**：运行示例cloud要是用[SolrCloud]()模式。关于开始使用SolrCloud的云模式的更多信息请参考[开始使用SolrCloud]()章节。
 
 #### 查看Solr已运行
 如果你不确定Solr是否已运行，你可以使用status命令：
@@ -65,7 +65,7 @@ $ bin/solr status
 就是这样！Solr运行起来了。如果你需要进一步确认，你可以用浏览器查看管理界面。
 >http://localhost:8983/solr/
 
-![](../img/01-1-0.png)
+![](img/01-1-0.png)
 
 Solr管理界面
 
