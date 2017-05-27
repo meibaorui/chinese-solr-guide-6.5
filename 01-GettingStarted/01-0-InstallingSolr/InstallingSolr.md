@@ -1,4 +1,4 @@
-# Solr安装
+# 安装Solr
 本章节描述了如何安装Solr。你可以将Solr安装在任何已经有Java运行时环境（JRE）的系统上，包括：Linux，OS X和微软的Windows。除了Windows系统的一些特殊情况以外，本章节中的说明应该适用于任何平台。
 
 ## 获取Java
