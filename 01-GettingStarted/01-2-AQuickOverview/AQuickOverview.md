@@ -19,5 +19,9 @@ Solr是一个基于Apache Lucene项目的，高效，功能全面的搜索引擎
 
 如果Solr的强大补足语处理你海量的数据。最常见的场景就是你有大量的数据或大量的查询，单个Solr服务不足以支撑你的工作负载。在这种场景下你可以使用[SolrCloud]()跨服务器的切分数据和处理请求。组合使用不同的设置可以符合你的可扩展性需求。
 
+比如，"Sharding(碎片化)"是一个可伸缩技术。它将一个collection分割为多个叫做"shards"的逻辑分片。这样可以扩展collection的文档数量，超越一台物理机的限制。输入的检索将被分配到collection的每一个shard，然后这些shard合并检索结果并返回。另一项可用的技术是提升你collection的"Repilication Factor(副本参数)"。它允许你添加包含collection副本的服务器，通过将检索请求分散到多台机器上来处理较大并发量的查询负载。Sharding和Replication技术并不是互斥的，它们共同使Solr成为一个强大且可扩展的平台。
 
+更棒的是，Solr大数据量的应用并不是一种假设场景：今天很多著名的网站都在使用Solr，比如Macy，EBay(易贝)和Zappo。
+
+更多使用Solr的产品的信息，可以参考[https://wiki.apache.org/solr/PublicServers](https://wiki.apache.org/solr/PublicServers)。
 
