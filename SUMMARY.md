@@ -6,3 +6,4 @@
   * [安装Solr](01-GettingStarted/01-0-InstallingSolr/InstallingSolr.md)
   * [运行Solr](01-GettingStarted/01-1-RunningSolr/RunningSolr.md)
   * [快速概览](01-GettingStarted/01-2-AQuickOverview/AQuickOverview.md)
+  * [更进一步](01-GettingStarted/01-3-AStepCloser/AStepCloser.md)
