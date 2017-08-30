@@ -12,7 +12,7 @@
 -------|-------
 信息 | ![](../img/info-img.png)你需要了解的重要信息
 注意 | ![](../img/note-img.png)使用Solr时你要重点注意的信息
-技巧 | ![](../img/tip-img.png)对你有版主的技巧
+技巧 | ![](../img/tip-img.png)对你有帮助的技巧
 警告 | ![](../img/warn-img.png)警告信息
 
 ## Hosts和接口样例
